@@ -1,5 +1,5 @@
 # Alternate site name
-alternate: Yume Shoka
+alternate: 不孤堂
 
 open_graph:
   #twitter_id:
@@ -91,13 +91,14 @@ iconfont: "1832207_igi8uaupcus"
 menu:
   home: / || home
   # about: /about/ || user
-  # posts:
-  #   default: / || feather
-  #   archives: /archives/ || list-alt
-  #   categories: /categories/ || th
-  #   tags: /tags/ || tags
+  posts:
+    default: / || feather
+    文章: /archives/ || list-alt
+    分類: /categories/ || th
+    標籤: /tags/ || tags
   # friends: /friends/ || heart
   # links: /links/ || magic
+  粉絲專頁: https://www.facebook.com/bukutang.artist || facebook
 
 # Social Links
 # Usage: `Key: permalink || icon || color`
@@ -113,7 +114,7 @@ social:
   #weibo: https://weibo.com/yourname || weibo || "#ea716e"
   #about: https://about.me/yourname || address-card || "#3b5998"
   #email: mailto:yourname@mail.com || envelope || "#55acd5"
-  #facebook: https://www.facebook.com/yourname || facebook
+  facebook: https://www.facebook.com/bukutang.artist || facebook
   #stackoverflow: https://stackoverflow.com/yourname || stack-overflow
   #youtube: https://youtube.com/yourname || youtube
   #instagram: https://instagram.com/yourname || instagram
@@ -135,7 +136,7 @@ widgets:
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  since: 2010
+  since: 2021
   icon:
     name: sakura rotate
     # Change the color of icon, using Hex Code.
@@ -151,7 +152,7 @@ post:
 # Reward (Donate)
 reward:
   # If true, reward will be displayed in every article by default.
-  enable: true
+  enable: false
   account:
     wechatpay: /wechatpay.png
     alipay: /alipay.png
@@ -177,7 +178,7 @@ tagcloud:
 # You can set a language value if you prefer a translated version of CC license, e.g. deed.zh
 # CC licenses are available in 39 languages, you can find the specific and correct abbreviation you need on https://creativecommons.org
 creative_commons:
-  license: by-nc-sa
+  license: 
   language: deed.zh
 
 # Comments
