@@ -15,10 +15,10 @@ images: images
 
 # themes/shoka/source/images/***
 favicon:
-  apple_touch_icon: /apple-touch-icon.png
-  #safari_pinned_tab: /logo.svg
-  #android_manifest: /manifest.json
-  #ms_browserconfig: /browserconfig.xml
+  apple_touch_icon: favicon.ico
+  safari_pinned_tab: favicon.ico
+  android_manifest: favicon.ico
+  ms_browserconfig: favicon.ico
 
 # Dark Mode
 # By default, the page judges whether to turn on the dark mode according to the device settings or user selection
@@ -126,7 +126,7 @@ sidebar:
   position: left
   # position: right
   # Replace the default avatar image and set the url here.
-  avatar: avatar.jpg
+  avatar: logo.jpg
 
 widgets:
   # if true, will show random posts
