@@ -15,10 +15,10 @@ images: images
 
 # themes/shoka/source/images/***
 favicon:
-  apple_touch_icon: favicon.ico
-  safari_pinned_tab: favicon.ico
-  android_manifest: favicon.ico
-  ms_browserconfig: favicon.ico
+  apple_touch_icon: /favicon.ico
+  safari_pinned_tab: /favicon.ico
+  android_manifest: /favicon.ico
+  ms_browserconfig: /favicon.ico
 
 # Dark Mode
 # By default, the page judges whether to turn on the dark mode according to the device settings or user selection
@@ -251,6 +251,11 @@ quicklink:
 # ---------------------------------------------------------------
 # analytics & SEO Settings
 # ---------------------------------------------------------------
+
+# Google Analytics
+# See: https://analytics.google.com/analytics
+google_analytics: G-68J13SVQQQ
+
 baidu_analytics: # <app_id>
 
 # Disable Baidu transformation on mobile devices.
