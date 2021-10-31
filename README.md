@@ -1,6 +1,24 @@
 # bukutang.art
 不孤堂官方網站
 
+## 常用指令
+### Local server
+```
+hexo server
+```
+預設在 http://localhost:4000
+
+### 新增文章
+#### 指令
+```
+hexo new <模板> <title>
+```
+1. 檔名建議使用英文（同時作為網址），內文再改用中文。
+2. 可用模板請參照 [scaffolds](scaffolds) 資料夾，或是自行在 Front-matter 添加 `categories: <分類>`
+
+#### 直接新增檔案
+請到 `source/_posts` 新增，效果相同但要自己套用 Front-matter 資訊。
+
 ## 開發
 ### 注意事項
 1. 本專案使用 [shoka 主題](https://github.com/amehime/hexo-theme-shoka)，以 submodule 的方式置於 themes/shoka。
