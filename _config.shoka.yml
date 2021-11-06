@@ -90,7 +90,7 @@ iconfont: "1832207_igi8uaupcus"
 
 menu:
   home: / || home
-  # about: /about/ || user
+  about: /about/ || user
   posts:
     default: / || feather
     文章: /archives/ || list-alt
