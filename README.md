@@ -40,7 +40,14 @@ hexo new <模板> <title>
 git pull
 ```
 
-主題更新（⚠ 危險操作！）
+主題更新（危險操作！）
 ```
 git pull && git submodule foreach git pull
 ```
+
+## 注意 ⚠
+由於主題不好客製化，要修改原始主題，因此專案目前所採用的主題是 fork 的，並請注意下列要點，未說明部分請至 repo 看 commit message：
+
+> https://github.com/bukutang/hexo-theme-shoka
+
+* 首頁橫幅修改為一張圖，路徑 [`themes\shoka\layout\_partials\layout.njk` 第 51 行](https://github.com/bukutang/hexo-theme-shoka/blob/bukutang/layout/_partials/layout.njk#L51)
