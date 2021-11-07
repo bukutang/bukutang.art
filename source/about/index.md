@@ -4,7 +4,7 @@ date: 2021-11-06 17:44:32
 cover: images/bukutang.jpg  # 橫幅圖
 ---
 
-<img src="/images/logo.jpg">
+{% img /images/logo.jpg '"" "不孤堂 logo"'%}
 
 {% blockquote  《論語‧里仁》 %}
 德不孤，必有鄰。
