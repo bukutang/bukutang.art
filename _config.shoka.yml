@@ -96,9 +96,9 @@ menu:
     文章: /archives/ || list-alt
     分類: /categories/ || th
     標籤: /tags/ || tags
-  # friends: /friends/ || heart
+  友站: /friends/ || heart
   # links: /links/ || magic
-  粉絲專頁: https://www.facebook.com/bukutang.artist || facebook
+  粉絲專頁: https://www.facebook.com/bukutang.art || facebook
 
 # Social Links
 # Usage: `Key: permalink || icon || color`

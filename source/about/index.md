@@ -21,3 +21,9 @@ cover: images/bukutang.jpg  # 橫幅圖
 
 ### 美術與行銷
 感謝 [Vicky](https://www.facebook.com/vicky.wen.39)，負責美術及行銷方面，提供了很多有用的建議。接近行銷企畫長的位置。
+
+## 大事記
+
+* 2021-06-19 開始籌備並建立 FB 粉專
+* 2021-07-18 我們的 [Facebook 粉絲專頁](https://www.facebook.com/bukutang.art)上線了
+* 2021-10-23 註冊了 `bukutang.art` 作為品牌網域
