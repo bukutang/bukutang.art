@@ -6,7 +6,8 @@ cover: https://i.imgur.com/u0r5vLW.jpg
 date: 2021-10-03 21:29:04
 tags:
   - 魁星踢斗
-  - 財運亨通
+  - 星宿
+  - 神
 ---
 
 魁星
