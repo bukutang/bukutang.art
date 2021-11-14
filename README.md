@@ -1,6 +1,6 @@
 # bukutang.art
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b553deca-045b-40a4-9e42-5be399053a70/deploy-status)](https://app.netlify.com/sites/gallant-banach-f6e226/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43cfcda5-386b-4b0b-b991-f11d47538397/deploy-status)](https://app.netlify.com/sites/loving-archimedes-d38be8/deploys)
 
 不孤堂官方網站
 
