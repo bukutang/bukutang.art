@@ -20,7 +20,7 @@ cover: images/bukutang.jpg  # 橫幅圖
 感謝 [hms5232](https://hhming.moe)，在團隊中他相當於 CTO 的位置，一手包辦資訊的部分。
 
 ### 美術與行銷
-感謝 [Vicky](https://www.facebook.com/vicky.wen.39)，負責美術及行銷方面，提供了很多有用的建議。接近行銷企畫長的位置。
+感謝 [Vicky](https://vvvicky.me/)，負責美術及行銷方面，提供了很多有用的建議。接近行銷企畫長的位置。
 
 ## 大事記
 
