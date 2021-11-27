@@ -5,9 +5,7 @@ categories:
 cover: https://i.imgur.com/n50slTE.jpg
 date: 2021-08-17 22:13:28
 tags:
-  - 法門龍像
-  - 財富
-  - 善良
+  - 翡翠
 ---
 
 善財童子：
