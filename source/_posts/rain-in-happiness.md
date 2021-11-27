@@ -5,8 +5,7 @@ categories:
 cover: https://i.imgur.com/LYx0E6y.jpg
 date: 2021-10-10 21:34:31
 tags:
-  - 文徵明
-  - 喜雨
+  - 行草
 ---
 
 臨文徵明  <喜雨>
