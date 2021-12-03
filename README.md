@@ -1,6 +1,7 @@
 # bukutang.art
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b553deca-045b-40a4-9e42-5be399053a70/deploy-status)](https://app.netlify.com/sites/gallant-banach-f6e226/deploys)
+![Current Nodejs version](http://img.shields.io/badge/node-16.13.0-brightgreen.svg)
 
 不孤堂官方網站
 
@@ -14,21 +15,22 @@ hexo server
 ### 新增文章
 #### 指令
 ```
-hexo new <模板> <title>
+hexo new <模板> <標題>
 ```
-1. 檔名建議使用英文（同時作為網址），內文再改用中文。
-2. 可用模板請參照 [scaffolds](scaffolds) 資料夾，或是自行在 Front-matter 添加 `categories: <分類>`
+
+可用模板請參照 [scaffolds](scaffolds) 資料夾，或是自行在 [Front-matter](https://hexo.io/zh-tw/docs/front-matter) 添加 `categories: <分類>`
 
 #### 直接新增檔案
 請到 `source/_posts` 新增，效果相同但要自己套用 Front-matter 資訊。
 
 ## 開發
 ### 注意事項
-1. 本專案使用 [shoka 主題](https://github.com/amehime/hexo-theme-shoka)，以 submodule 的方式置於 themes/shoka。
+1. 本專案使用 [shoka 主題](https://github.com/amehime/hexo-theme-shoka) 為基底[加以修改](https://github.com/bukutang/hexo-theme-shoka)，用 submodule 的方式置於 themes/shoka。
 
 ### 需求
 1. node 14.18.1 或以上
-2. [hexo-cli](https://hexo.io/zh-tw/docs/#%E5%AE%89%E8%A3%9D%E9%9C%80%E6%B1%82) 或使用 `npx`
+2. [hexo-cli](https://hexo.io/zh-tw/docs/#%E5%AE%89%E8%A3%9D%E9%9C%80%E6%B1%82) 或使用 [`npx`](https://hexo.io/docs/index.html#Advanced-installation-and-usage)
+3. yarn（用 npm 安裝：`npm install -g yarn`）
 
 ### 建置
 1. `git clone https://github.com/bukutang/bukutang.art.git --recurse-submodules` 連 submodule 一起初始化
