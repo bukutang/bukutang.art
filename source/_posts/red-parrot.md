@@ -19,3 +19,5 @@ tags:
 ---- 唐  殷文圭 <鹦鵡>
 
 ![](https://i.imgur.com/4CpHg3J.jpg)
+
+{% fb_comments %}
