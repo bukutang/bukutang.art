@@ -28,3 +28,6 @@ cover: images/bukutang.jpg  # 橫幅圖
 * 2021-07-18 我們的 [Facebook 粉絲專頁](https://www.facebook.com/bukutang.art)上線了
 * 2021-10-23 註冊了 `bukutang.art` 作為品牌網域
 * 2021-11-18 網站正式[在臉書粉專上公開亮相](https://www.facebook.com/bukutang.art/posts/183673313966456)
+
+
+{% fb_comments %}

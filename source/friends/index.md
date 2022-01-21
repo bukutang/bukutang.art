@@ -22,3 +22,5 @@ date: 2021-11-11 21:52:40
 
 # 友情連結
 {% linksfile friends/links.yml %}
+
+{% fb_comments %}
