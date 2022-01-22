@@ -11,3 +11,5 @@ tags:
 偷得浮生半日閒！
 
 ![](https://i.imgur.com/fvDj28U.jpg)
+
+{% fb_comments %}

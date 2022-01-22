@@ -16,3 +16,5 @@ tags:
 開落惟銷一陣風。
 
 ![](https://i.imgur.com/WAObHcM.jpg)
+
+{% fb_comments %}

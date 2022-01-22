@@ -11,3 +11,5 @@ tags:
 臨文徵明  <喜雨>
 
 ![](https://i.imgur.com/LYx0E6y.jpg)
+
+{% fb_comments %}

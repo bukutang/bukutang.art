@@ -19,3 +19,5 @@ tags:
 🌹鴨與甲疊韻，鳴諧音名，有【高中榜首】之意
 
 ![](https://i.imgur.com/pBrxESs.jpg)
+
+{% fb_comments %}
