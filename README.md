@@ -1,6 +1,6 @@
 # bukutang.art
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b553deca-045b-40a4-9e42-5be399053a70/deploy-status)](https://app.netlify.com/sites/gallant-banach-f6e226/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/14f61515-1bf9-48d0-8816-bfc02802062d/deploy-status)](https://app.netlify.com/sites/distracted-raman-fee782/deploys)
 ![Current Nodejs version](http://img.shields.io/badge/node-16.13.0-brightgreen.svg)
 
 不孤堂官方網站
