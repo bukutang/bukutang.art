@@ -2,6 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/43cfcda5-386b-4b0b-b991-f11d47538397/deploy-status)](https://app.netlify.com/sites/loving-archimedes-d38be8/deploys)
 ![Current Nodejs version](http://img.shields.io/badge/node-16.13.0-brightgreen.svg)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790504333-36c8580968a04d770c0b6804)](https://dev.bukutang.art/)
 
 不孤堂官方網站
 
