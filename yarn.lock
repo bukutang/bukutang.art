@@ -1139,10 +1139,10 @@ hexo-symbols-count-time@^0.7.1:
   dependencies:
     hexo-util "1.9.0"
 
-hexo-tag-fb-comments@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/hexo-tag-fb-comments/-/hexo-tag-fb-comments-0.3.2.tgz#64301808f443e198343bf3dfc609781c0e508c82"
-  integrity sha512-/B2xkcQQAnbkwhoJBkHO9R+KDRjE4unABeNiCkpPTtzr2Imkzf2YDZAWdzoPDG5hrEIjmBRzNwI3zY0GjvpZ/Q==
+hexo-tag-fb-comments@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/hexo-tag-fb-comments/-/hexo-tag-fb-comments-0.4.0.tgz#7d33b9372da5c7a14022dcd050beb0d8cae9dd40"
+  integrity sha512-L+Z5kfKbOHNRnm+kTqxTHT6oT9URs6Tsd558HiXw3Z6nR4IfIGY4otU6THRwIcPcfcfAcXzYye0F90We7Q8aJg==
 
 hexo-theme-landscape@^0.0.3:
   version "0.0.3"
