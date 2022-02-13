@@ -30,6 +30,34 @@ hexo new <模板> <標題>
 
 請到 `source/_posts` 新增，效果相同但要自己套用 Front-matter 資訊。
 
+### Lint
+
+#### 檢查
+
+使用以下指令檢查 Markdown：
+
+Windows：
+
+```
+yarn run lint
+```
+
+Linux：
+
+```
+yarn run test
+```
+
+#### 修復
+
+如果支援的話，可以使用快速修復功能。
+
+依照作業系統所使用的檢查指令後方直接加上 `--fix` 的 flag 即可。例如：
+
+```
+yarn run lint --fix
+```
+
 ## 開發
 
 ### 注意事項
