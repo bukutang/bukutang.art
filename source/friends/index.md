@@ -4,7 +4,8 @@ cover: images/bukutang.jpg
 date: 2021-11-11 21:52:40
 ---
 
-# 申請方式
+## 申請方式
+
 目前研議中，但所需資料及格式如下：
 
 ~~~yml
@@ -20,7 +21,8 @@ date: 2021-11-11 21:52:40
 
 有意願的朋友可以先準備喔~
 
-# 友情連結
+## 友情連結
+
 {% linksfile friends/links.yml %}
 
 {% fb_comments %}
