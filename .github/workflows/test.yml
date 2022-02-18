@@ -9,8 +9,10 @@ on:
     paths:
       - '**.md'
   # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#running-your-workflow-based-on-files-changed-in-a-pull-request-1
-  pull_request_target:
-    branches: [ main, dev ]
+  pull_request:
+    branches: 
+      - main
+      - dev
     paths:
       - '**.md'
 
