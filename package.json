@@ -11,7 +11,7 @@
     "test": "markdownlint '**/*.md'"
   },
   "hexo": {
-    "version": "5.4.2"
+    "version": "6.3.0"
   },
   "dependencies": {
     "hexo": "^6.3.0",
