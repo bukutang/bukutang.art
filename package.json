@@ -28,8 +28,7 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-symbols-count-time": "^0.7.1",
-    "hexo-tag-fb-comments": "^1.0.0",
-    "hexo-theme-landscape": "^0.0.3"
+    "hexo-tag-fb-comments": "^1.0.0"
   },
   "devDependencies": {
     "markdownlint-cli": "^0.32.2"
