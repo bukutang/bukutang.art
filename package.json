@@ -32,5 +32,8 @@
   },
   "devDependencies": {
     "markdownlint-cli": "^0.37.0"
+  },
+  "engines": {
+    "node": "16"
   }
 }
