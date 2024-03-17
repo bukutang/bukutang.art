@@ -20,4 +20,4 @@ layout = int(input('請輸入要產生的新文章分類編號：'))
 title = input("請輸入新文章的標題：")
 
 # 執行指令
-os.popen('hexo new ' + category[layout] + ' ' + title)
+os.popen('hexo new {} "{}"'.format(category[layout], title))
