@@ -1011,10 +1011,10 @@ hexo-cli@^4.3.0:
     resolve "^1.11.0"
     tildify "^2.0.0"
 
-hexo-feed@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/hexo-feed/-/hexo-feed-1.1.1.tgz#fc16e3473c55122a8f2243c420aeb3cb64bcb26b"
-  integrity sha512-Hrp6YZGZ93/EqGOAvKll8hQpCWKggcbexP3Xkjx00YCUeOHGSNqBLdggRGAo8c7/BPbF6X0wLgar/WD+f5hKYQ==
+hexo-feed@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/hexo-feed/-/hexo-feed-1.1.2.tgz#d0dbfad4e344147608f02b7ebfaa02fd768b02e9"
+  integrity sha512-7uK+9r3btleHpVbuuP0I13ETSRiVsBtQghPNyyBl9HJ8D23jXcWq5lLe4KUlhOql35mlIYErNv1iZIbJMNilEQ==
 
 hexo-front-matter@^3.0.0:
   version "3.0.0"
