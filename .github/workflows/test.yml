@@ -15,6 +15,7 @@ on:
       - dev
     paths:
       - '**.md'
+      - yarn.lock
   workflow_dispatch:
 
 jobs:
