@@ -8,7 +8,8 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "lint": "markdownlint **/*.md",
-    "test": "markdownlint '**/*.md'"
+    "test": "markdownlint '**/*.md'",
+    "commit": "git-cz"
   },
   "hexo": {
     "version": "7.2.0"
@@ -31,7 +32,8 @@
     "hexo-tag-fb-comments": "^1.1.0"
   },
   "devDependencies": {
-    "markdownlint-cli": "^0.40.0"
+    "git-cz": "^4.9.0",
+    "markdownlint-cli": "^0.41.0"
   },
   "engines": {
     "node": ">=18.19 <19"
