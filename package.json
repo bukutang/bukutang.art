@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "git-cz": "^4.9.0",
-    "markdownlint-cli": "^0.41.0"
+    "markdownlint-cli": "^0.42.0"
   },
   "engines": {
     "node": ">=18.19 <19"
